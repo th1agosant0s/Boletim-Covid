@@ -1,0 +1,14 @@
+@import "confirmados.css";
+@import "suspeitos.css";
+@import "dadosGerais.css";
+@import "descartados.css";
+@import "recuperados.css";
+@import "internados.css";
+
+main {
+    display: flex;
+}
+body {
+    background: rgb(180,0,94);
+background: linear-gradient(90deg, rgba(180,0,94,1) 0%, rgba(148,0,21,1) 21%, rgba(255,215,220,1) 48%, rgba(255,0,108,1) 100%, rgba(255,0,26,0.9948354341736695) 100%);
+}
